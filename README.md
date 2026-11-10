@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm luD.
 I am a Music Producer who enjoys coding as a hobby. My main interests lie in developing Obsidian Community Plugins and building static websites.
 
 ## Tech Stack & Tools
@@ -12,7 +12,7 @@ I am a Music Producer who enjoys coding as a hobby. My main interests lie in dev
 - Studying programming related to acoustics and MIDI.
 
 ## Featured Projects
-### Obsidian Plugin : [Script View](https://github.com/unluxiddream/obsidian-scriptview-plugin)
+### [Obsidian Plugin : Script View](https://github.com/unluxiddream/obsidian-scriptview-plugin)
 An Obsidian plugin that shows "Name : Dialogue" lines in a clean, commercial script layout. This plugin was made to improve the readability of scripts written in Markdown files.
 ### [LOCUS](https://github.com/unluxiddream/sangmyung-locus)
 *Graduation Project for Korea-Japan Cultural Content Major*
