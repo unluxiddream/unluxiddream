@@ -29,5 +29,5 @@ Double Major Program:
 If you'd like to help keep this poor composer alive, you can support me through [Ko-fi](https://ko-fi.com/unluxiddream).
 
 ## 📫 Contact
-- **Email:** [hideakirakira@gmail.com](mailto:hideakirakira@gmail.com)
+- **Email:** [unluxiddream@naver.com](mailto:unluxiddream@naver.com)
 - **LinkedIn:** [https://www.linkedin.com/in/unluxiddream/](https://www.linkedin.com/in/unluxiddream/)
